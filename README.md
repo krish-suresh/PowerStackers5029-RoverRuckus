@@ -1,13 +1,19 @@
-# Powerstackers-5029 Rover Ruckus Repository
+# FIRST Tech Challenge team 5029 PowerStackers repository for the Rover ruckus season
 
-[All PowerStackers-5029 Repositories.](https://github.com/robotgenis/PowerStackers5029)
+## CAD
+![2018-2019 FTC Rover Ruckus Final Robot CAD Render](https://user-images.githubusercontent.com/12313362/140759328-f4e3b428-5de3-4a15-a3b5-db20b3adcbd1.jpg)
 
-## Competition Robot
 
-Main robot code can be found in [teamcode/RoverRukus](https://github.com/robotgenis/PowerStackers5029-RoverRuckus/tree/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/roverRuckus).
+## Build video
 
-### Sources
 
-[Trajectory app](https://github.com/robotgenis/PowerStackersAuto) made by PowerStackers
+https://user-images.githubusercontent.com/12313362/140759413-db08d5d3-99b5-4f0e-af79-bf18e9e1813d.mp4
 
-[Roadrunner trajectory library](https://github.com/stephenfreund/RoadRunner)
+
+
+## Tensorflow Element Detection
+
+
+https://user-images.githubusercontent.com/12313362/140759439-a48f06d1-ffe7-4ebf-a512-da8d53409411.mp4
+
+
